@@ -53,7 +53,7 @@ Setting up the API Key
 
   * Insert the API Key you received from News Api where <Your-Api-Key> is.
 
-To run the application, in your terminal:
+# To run the application, in your terminal:
 
   $ chmod +x start.sh
   $ ./start.sh
