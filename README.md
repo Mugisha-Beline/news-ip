@@ -29,7 +29,7 @@ virtualenv
 Cloning
 In your terminal:
 
-  $ git clone https://github.com/emdeechege/NewsApi/
+  $ git clone https://github.com/Mugisha-Beline/news-ip.git
   $ cd NewsPI
 Running the Application
 Creating the virtual environment
