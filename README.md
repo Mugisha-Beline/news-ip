@@ -2,9 +2,6 @@
 ## Description
 News app is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the News API.
 
-User Stories
-These are the behaviours/features that the application implements for use by a user.
-
 As a user I would like to:
 
 See various news sources
